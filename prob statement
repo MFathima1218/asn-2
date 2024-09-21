@@ -1,0 +1,3 @@
+Develop a multi-page website with a home page and at least three recipe pages. 
+
+The home page should have links to each recipe. Each recipe page should include an ingredients list (using <ul> or <ol>) and step-by-step instructions. Use semantic HTML5 tags like <header>, <nav>, <main>, and <footer> for structure.
